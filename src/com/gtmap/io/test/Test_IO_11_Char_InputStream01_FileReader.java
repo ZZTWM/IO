@@ -3,6 +3,12 @@ package com.gtmap.io.test;
 import java.io.File;
 import java.io.FileReader;
 
+/**
+ * 使用字符流读取文件：
+ * FileReader 是Reader子类，以FileReader 为例进行文件读取
+ * @author Administrator
+ *
+ */
 public class Test_IO_11_Char_InputStream01_FileReader {
 	public static void main(String[] args) {
 		//准备文件dnf.txt其中的内容是XY
