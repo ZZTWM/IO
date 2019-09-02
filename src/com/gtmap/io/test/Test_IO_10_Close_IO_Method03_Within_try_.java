@@ -15,7 +15,7 @@ import java.io.IOException;
  * @author Administrator
  *
  */
-public class Test_IO_10 {
+public class Test_IO_10_Close_IO_Method03_Within_try_ {
 	public static void main(String[] args) {
 		File file = new File("d:/dnf.txt");
 		try(FileInputStream fis = new FileInputStream(file);) {
