@@ -30,6 +30,7 @@ public class Test_IO_06_InputStream {
 			//以字节流的形式读取文件所有内容
 			fis.read(all);
 			for (byte b : all) {
+				//输出的是字符的ASCII编码：65   66
 				System.out.println(b);
 			}
 			//每次使用完流，都应该进行关闭
