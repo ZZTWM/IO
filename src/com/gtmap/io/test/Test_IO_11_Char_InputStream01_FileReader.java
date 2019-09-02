@@ -3,7 +3,7 @@ package com.gtmap.io.test;
 import java.io.File;
 import java.io.FileReader;
 
-public class Test_IO_11 {
+public class Test_IO_11_Char_InputStream01_FileReader {
 	public static void main(String[] args) {
 		//准备文件dnf.txt其中的内容是XY
 		File file = new File("d:/dnf.txt");
