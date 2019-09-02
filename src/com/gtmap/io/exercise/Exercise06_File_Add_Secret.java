@@ -24,7 +24,7 @@ import java.io.IOException;
  * @author Administrator
  *
  */
-public class Exercise06 {
+public class Exercise06_File_Add_Secret {
     /**
     *
     * @param encodingFile
