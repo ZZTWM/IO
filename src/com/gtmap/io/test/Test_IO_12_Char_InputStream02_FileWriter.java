@@ -3,7 +3,7 @@ package com.gtmap.io.test;
 import java.io.File;
 import java.io.FileWriter;
 
-public class Test_IO_12 {
+public class Test_IO_12_Char_InputStream02_FileWriter {
 	public static void main(String[] args) {
 		//准备文件lol2.txt
 		File file = new File("d:/lol2.txt");
