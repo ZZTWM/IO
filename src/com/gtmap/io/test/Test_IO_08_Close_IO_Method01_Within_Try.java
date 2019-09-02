@@ -10,7 +10,7 @@ import java.io.IOException;
  * @author Administrator
  *
  */
-public class Test_IO_08 {
+public class Test_IO_08_Close_IO_Method01_Within_Try {
 	public static void main(String[] args) {
 		
 		try {
