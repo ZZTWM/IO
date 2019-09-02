@@ -16,7 +16,7 @@ import java.io.IOException;
  * @author Administrator
  *
  */
-public class Test_IO_09 {
+public class Test_IO_09_Close_IO_Method02_finally {
 	public static void main(String[] args) {
 		File file = new File("d:/dnf.txt");
 		FileInputStream fis = null;
