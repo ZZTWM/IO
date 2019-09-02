@@ -23,7 +23,7 @@ import java.io.IOException;
  * 比如',&^ 保留不变，中文也保留不变
  *
  */
-public class Exercise07 {
+public class Exercise07_File_Deciphering {
 	 
     /**
      *
